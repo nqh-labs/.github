@@ -6,7 +6,9 @@ Project implementations live here. Project overviews and case studies are collec
 
 ## Featured project
 
-### [HookCheck](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
+### [HookCheck](https://github.com/nqh-labs/HookCheck)
+
+[Case study](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
 
 Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
 
