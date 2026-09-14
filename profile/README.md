@@ -2,6 +2,12 @@
 
 A personal engineering lab for private project development, technical experiments, and maintainable software delivery.
 
+## Current project
+
+### HookCheck
+
+A temporary webhook inspection inbox for capturing exact request bytes, evaluating rules, and debugging integrations through a private browser dashboard. Source code is private while the project is under active development; public-facing project information is maintained on the [developer profile](https://github.com/nqhung212).
+
 ## Repository policy
 
 - Project source repositories are private by default.
