@@ -1,22 +1,20 @@
 # nqh-labs
 
-A personal engineering lab for private project development, technical experiments, and maintainable software delivery.
+The development workspace for projects by [Nguyễn Quốc Hùng](https://github.com/nqhung212).
 
-## Current project
+Project implementations live here. Project overviews and case studies are collected in the [career portfolio](https://github.com/nqhung212/career-portfolio).
 
-### HookCheck
+## Featured project
 
-A temporary webhook inspection inbox for capturing exact request bytes, evaluating rules, and debugging integrations through a private browser dashboard. Source code is private while the project is under active development; public-facing project information is maintained on the [developer profile](https://github.com/nqhung212).
+### [HookCheck](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
 
-## Repository policy
+Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
 
-- Project source repositories are private by default.
-- Public repositories contain only deliberately shared documentation, standards, templates, or sanitized case studies.
-- Secrets, private datasets, customer information, and confidential material are never published.
+**Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright
+
+**Status:** Local MVP implemented; public deployment and user validation are pending.
 
 ## Public resources
 
-- [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit)
-- [Career Portfolio](https://github.com/nqhung212/career-portfolio)
-
-Maintained by [Nguyễn Quốc Hùng](https://github.com/nqhung212).
+- [Career Portfolio](https://github.com/nqhung212/career-portfolio) — selected projects and résumé
+- [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — engineering standards and workflows
